@@ -57,3 +57,5 @@ claude plugin test .
 ## License
 
 MIT - code and sounds.
+
+Want CS 1.6 radio calls instead? Try [Claude Counter-Strike](https://github.com/ben-rogerson/claude-counter-strike).
