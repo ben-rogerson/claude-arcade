@@ -1,0 +1,15 @@
+{
+  "name": "arcade",
+  "description": "Quiet 8-bit sounds for Claude Code",
+  "owner": {
+    "name": "Ben Rogerson",
+    "url": "https://benrogerson.dev"
+  },
+  "plugins": [
+    {
+      "name": "arcade",
+      "source": "./",
+      "description": "Quiet 8-bit sounds when Claude Code turns and deploys end"
+    }
+  ]
+}
